@@ -1,4 +1,4 @@
-## Olá eu sou Matheusfllps
+## Olá eu sou Matheus Segundo
 
 - 🔭 hoje trabalho em prol de aprimorar meu conhecimentos
 - 🌱 estudo html, css, js e reactjs
