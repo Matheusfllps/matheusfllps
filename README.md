@@ -1,7 +1,7 @@
 ## Olá eu sou Matheus Segundo
 
 - 🔭 hoje trabalho em prol de aprimorar meu conhecimentos
-- 🌱 estudo html, css, js e reactjs
+- 🌱 estudo html, css, js e reactjs and English
 - 📫 Contate-me no email: matheusfelipefonsecasegundo@gmail.com
 <div align="center">
   <a href="https://github.com/matheusfllps">
